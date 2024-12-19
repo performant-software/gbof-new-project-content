@@ -18,15 +18,16 @@
     }
   },
   "typesense": {
-    "host": "example.typesense.com",
+    "host": "mk0zu5rvf46oa2h7p-1.a1.typesense.net",
     "port": 443,
     "protocol": "https",
-    "api_key": "abcdefg",
-    "index_name": "core_data_places",
-    "query_by": "name"
+    "api_key": "b6RCQEUfl2qPBTSZqKnou4Bhs89FEgT1",
+    "index_name": "new_project",
+    "query_by": "name,names",
+    "default_sort": "name"
   },
   "core_data": {
     "url": "https://staging.coredata.cloud",
-    "project_ids": [1, 2, 3]
+    "project_ids": [149]
   }
 }
